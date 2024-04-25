@@ -1,0 +1,15 @@
+D:\C# programs\Phase 2\CollegeAdmission\bin\Debug\net7.0\CollegeAdmission.exe
+D:\C# programs\Phase 2\CollegeAdmission\bin\Debug\net7.0\CollegeAdmission.deps.json
+D:\C# programs\Phase 2\CollegeAdmission\bin\Debug\net7.0\CollegeAdmission.runtimeconfig.json
+D:\C# programs\Phase 2\CollegeAdmission\bin\Debug\net7.0\CollegeAdmission.dll
+D:\C# programs\Phase 2\CollegeAdmission\bin\Debug\net7.0\CollegeAdmission.pdb
+D:\C# programs\Phase 2\CollegeAdmission\obj\Debug\net7.0\CollegeAdmission.csproj.AssemblyReference.cache
+D:\C# programs\Phase 2\CollegeAdmission\obj\Debug\net7.0\CollegeAdmission.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# programs\Phase 2\CollegeAdmission\obj\Debug\net7.0\CollegeAdmission.AssemblyInfoInputs.cache
+D:\C# programs\Phase 2\CollegeAdmission\obj\Debug\net7.0\CollegeAdmission.AssemblyInfo.cs
+D:\C# programs\Phase 2\CollegeAdmission\obj\Debug\net7.0\CollegeAdmission.csproj.CoreCompileInputs.cache
+D:\C# programs\Phase 2\CollegeAdmission\obj\Debug\net7.0\CollegeAdmission.dll
+D:\C# programs\Phase 2\CollegeAdmission\obj\Debug\net7.0\refint\CollegeAdmission.dll
+D:\C# programs\Phase 2\CollegeAdmission\obj\Debug\net7.0\CollegeAdmission.pdb
+D:\C# programs\Phase 2\CollegeAdmission\obj\Debug\net7.0\CollegeAdmission.genruntimeconfig.cache
+D:\C# programs\Phase 2\CollegeAdmission\obj\Debug\net7.0\ref\CollegeAdmission.dll

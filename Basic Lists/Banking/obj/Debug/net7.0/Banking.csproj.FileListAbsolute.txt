@@ -1,0 +1,15 @@
+D:\C# programs\Phase 2\Banking\bin\Debug\net7.0\Banking.exe
+D:\C# programs\Phase 2\Banking\bin\Debug\net7.0\Banking.deps.json
+D:\C# programs\Phase 2\Banking\bin\Debug\net7.0\Banking.runtimeconfig.json
+D:\C# programs\Phase 2\Banking\bin\Debug\net7.0\Banking.dll
+D:\C# programs\Phase 2\Banking\bin\Debug\net7.0\Banking.pdb
+D:\C# programs\Phase 2\Banking\obj\Debug\net7.0\Banking.csproj.AssemblyReference.cache
+D:\C# programs\Phase 2\Banking\obj\Debug\net7.0\Banking.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# programs\Phase 2\Banking\obj\Debug\net7.0\Banking.AssemblyInfoInputs.cache
+D:\C# programs\Phase 2\Banking\obj\Debug\net7.0\Banking.AssemblyInfo.cs
+D:\C# programs\Phase 2\Banking\obj\Debug\net7.0\Banking.csproj.CoreCompileInputs.cache
+D:\C# programs\Phase 2\Banking\obj\Debug\net7.0\Banking.dll
+D:\C# programs\Phase 2\Banking\obj\Debug\net7.0\refint\Banking.dll
+D:\C# programs\Phase 2\Banking\obj\Debug\net7.0\Banking.pdb
+D:\C# programs\Phase 2\Banking\obj\Debug\net7.0\Banking.genruntimeconfig.cache
+D:\C# programs\Phase 2\Banking\obj\Debug\net7.0\ref\Banking.dll

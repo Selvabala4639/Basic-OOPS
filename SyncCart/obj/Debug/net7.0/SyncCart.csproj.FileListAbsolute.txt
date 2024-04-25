@@ -1,0 +1,15 @@
+D:\C# programs\Phase 2\SyncCart\bin\Debug\net7.0\SyncCart.exe
+D:\C# programs\Phase 2\SyncCart\bin\Debug\net7.0\SyncCart.deps.json
+D:\C# programs\Phase 2\SyncCart\bin\Debug\net7.0\SyncCart.runtimeconfig.json
+D:\C# programs\Phase 2\SyncCart\bin\Debug\net7.0\SyncCart.dll
+D:\C# programs\Phase 2\SyncCart\bin\Debug\net7.0\SyncCart.pdb
+D:\C# programs\Phase 2\SyncCart\obj\Debug\net7.0\SyncCart.csproj.AssemblyReference.cache
+D:\C# programs\Phase 2\SyncCart\obj\Debug\net7.0\SyncCart.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# programs\Phase 2\SyncCart\obj\Debug\net7.0\SyncCart.AssemblyInfoInputs.cache
+D:\C# programs\Phase 2\SyncCart\obj\Debug\net7.0\SyncCart.AssemblyInfo.cs
+D:\C# programs\Phase 2\SyncCart\obj\Debug\net7.0\SyncCart.csproj.CoreCompileInputs.cache
+D:\C# programs\Phase 2\SyncCart\obj\Debug\net7.0\SyncCart.dll
+D:\C# programs\Phase 2\SyncCart\obj\Debug\net7.0\refint\SyncCart.dll
+D:\C# programs\Phase 2\SyncCart\obj\Debug\net7.0\SyncCart.pdb
+D:\C# programs\Phase 2\SyncCart\obj\Debug\net7.0\SyncCart.genruntimeconfig.cache
+D:\C# programs\Phase 2\SyncCart\obj\Debug\net7.0\ref\SyncCart.dll

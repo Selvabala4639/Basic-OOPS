@@ -1,0 +1,15 @@
+D:\C# programs\Phase 2\OnlineLibraryManagement\bin\Debug\net7.0\OnlineLibraryManagement.exe
+D:\C# programs\Phase 2\OnlineLibraryManagement\bin\Debug\net7.0\OnlineLibraryManagement.deps.json
+D:\C# programs\Phase 2\OnlineLibraryManagement\bin\Debug\net7.0\OnlineLibraryManagement.runtimeconfig.json
+D:\C# programs\Phase 2\OnlineLibraryManagement\bin\Debug\net7.0\OnlineLibraryManagement.dll
+D:\C# programs\Phase 2\OnlineLibraryManagement\bin\Debug\net7.0\OnlineLibraryManagement.pdb
+D:\C# programs\Phase 2\OnlineLibraryManagement\obj\Debug\net7.0\OnlineLibraryManagement.csproj.AssemblyReference.cache
+D:\C# programs\Phase 2\OnlineLibraryManagement\obj\Debug\net7.0\OnlineLibraryManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# programs\Phase 2\OnlineLibraryManagement\obj\Debug\net7.0\OnlineLibraryManagement.AssemblyInfoInputs.cache
+D:\C# programs\Phase 2\OnlineLibraryManagement\obj\Debug\net7.0\OnlineLibraryManagement.AssemblyInfo.cs
+D:\C# programs\Phase 2\OnlineLibraryManagement\obj\Debug\net7.0\OnlineLibraryManagement.csproj.CoreCompileInputs.cache
+D:\C# programs\Phase 2\OnlineLibraryManagement\obj\Debug\net7.0\OnlineLibraryManagement.dll
+D:\C# programs\Phase 2\OnlineLibraryManagement\obj\Debug\net7.0\refint\OnlineLibraryManagement.dll
+D:\C# programs\Phase 2\OnlineLibraryManagement\obj\Debug\net7.0\OnlineLibraryManagement.pdb
+D:\C# programs\Phase 2\OnlineLibraryManagement\obj\Debug\net7.0\OnlineLibraryManagement.genruntimeconfig.cache
+D:\C# programs\Phase 2\OnlineLibraryManagement\obj\Debug\net7.0\ref\OnlineLibraryManagement.dll

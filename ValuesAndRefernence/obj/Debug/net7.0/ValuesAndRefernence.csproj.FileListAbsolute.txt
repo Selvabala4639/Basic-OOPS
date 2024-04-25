@@ -1,0 +1,15 @@
+D:\C# programs\Phase 2\ValuesAndRefernence\bin\Debug\net7.0\ValuesAndRefernence.exe
+D:\C# programs\Phase 2\ValuesAndRefernence\bin\Debug\net7.0\ValuesAndRefernence.deps.json
+D:\C# programs\Phase 2\ValuesAndRefernence\bin\Debug\net7.0\ValuesAndRefernence.runtimeconfig.json
+D:\C# programs\Phase 2\ValuesAndRefernence\bin\Debug\net7.0\ValuesAndRefernence.dll
+D:\C# programs\Phase 2\ValuesAndRefernence\bin\Debug\net7.0\ValuesAndRefernence.pdb
+D:\C# programs\Phase 2\ValuesAndRefernence\obj\Debug\net7.0\ValuesAndRefernence.csproj.AssemblyReference.cache
+D:\C# programs\Phase 2\ValuesAndRefernence\obj\Debug\net7.0\ValuesAndRefernence.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# programs\Phase 2\ValuesAndRefernence\obj\Debug\net7.0\ValuesAndRefernence.AssemblyInfoInputs.cache
+D:\C# programs\Phase 2\ValuesAndRefernence\obj\Debug\net7.0\ValuesAndRefernence.AssemblyInfo.cs
+D:\C# programs\Phase 2\ValuesAndRefernence\obj\Debug\net7.0\ValuesAndRefernence.csproj.CoreCompileInputs.cache
+D:\C# programs\Phase 2\ValuesAndRefernence\obj\Debug\net7.0\ValuesAndRefernence.dll
+D:\C# programs\Phase 2\ValuesAndRefernence\obj\Debug\net7.0\refint\ValuesAndRefernence.dll
+D:\C# programs\Phase 2\ValuesAndRefernence\obj\Debug\net7.0\ValuesAndRefernence.pdb
+D:\C# programs\Phase 2\ValuesAndRefernence\obj\Debug\net7.0\ValuesAndRefernence.genruntimeconfig.cache
+D:\C# programs\Phase 2\ValuesAndRefernence\obj\Debug\net7.0\ref\ValuesAndRefernence.dll

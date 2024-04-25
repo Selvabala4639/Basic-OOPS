@@ -1,0 +1,15 @@
+D:\C# programs\Phase 2\Inside\obj\Debug\net7.0\Inside.csproj.AssemblyReference.cache
+D:\C# programs\Phase 2\Inside\obj\Debug\net7.0\Inside.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# programs\Phase 2\Inside\obj\Debug\net7.0\Inside.AssemblyInfoInputs.cache
+D:\C# programs\Phase 2\Inside\obj\Debug\net7.0\Inside.AssemblyInfo.cs
+D:\C# programs\Phase 2\Inside\obj\Debug\net7.0\Inside.csproj.CoreCompileInputs.cache
+D:\C# programs\Phase 2\Inside\bin\Debug\net7.0\Inside.exe
+D:\C# programs\Phase 2\Inside\bin\Debug\net7.0\Inside.deps.json
+D:\C# programs\Phase 2\Inside\bin\Debug\net7.0\Inside.runtimeconfig.json
+D:\C# programs\Phase 2\Inside\bin\Debug\net7.0\Inside.dll
+D:\C# programs\Phase 2\Inside\bin\Debug\net7.0\Inside.pdb
+D:\C# programs\Phase 2\Inside\obj\Debug\net7.0\Inside.dll
+D:\C# programs\Phase 2\Inside\obj\Debug\net7.0\refint\Inside.dll
+D:\C# programs\Phase 2\Inside\obj\Debug\net7.0\Inside.pdb
+D:\C# programs\Phase 2\Inside\obj\Debug\net7.0\Inside.genruntimeconfig.cache
+D:\C# programs\Phase 2\Inside\obj\Debug\net7.0\ref\Inside.dll

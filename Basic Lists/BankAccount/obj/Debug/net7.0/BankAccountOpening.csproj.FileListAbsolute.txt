@@ -1,0 +1,15 @@
+D:\C# programs\Phase 2\BankAccountOpening\bin\Debug\net7.0\BankAccountOpening.exe
+D:\C# programs\Phase 2\BankAccountOpening\bin\Debug\net7.0\BankAccountOpening.deps.json
+D:\C# programs\Phase 2\BankAccountOpening\bin\Debug\net7.0\BankAccountOpening.runtimeconfig.json
+D:\C# programs\Phase 2\BankAccountOpening\bin\Debug\net7.0\BankAccountOpening.dll
+D:\C# programs\Phase 2\BankAccountOpening\bin\Debug\net7.0\BankAccountOpening.pdb
+D:\C# programs\Phase 2\BankAccountOpening\obj\Debug\net7.0\BankAccountOpening.csproj.AssemblyReference.cache
+D:\C# programs\Phase 2\BankAccountOpening\obj\Debug\net7.0\BankAccountOpening.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# programs\Phase 2\BankAccountOpening\obj\Debug\net7.0\BankAccountOpening.AssemblyInfoInputs.cache
+D:\C# programs\Phase 2\BankAccountOpening\obj\Debug\net7.0\BankAccountOpening.AssemblyInfo.cs
+D:\C# programs\Phase 2\BankAccountOpening\obj\Debug\net7.0\BankAccountOpening.csproj.CoreCompileInputs.cache
+D:\C# programs\Phase 2\BankAccountOpening\obj\Debug\net7.0\BankAccountOpening.dll
+D:\C# programs\Phase 2\BankAccountOpening\obj\Debug\net7.0\refint\BankAccountOpening.dll
+D:\C# programs\Phase 2\BankAccountOpening\obj\Debug\net7.0\BankAccountOpening.pdb
+D:\C# programs\Phase 2\BankAccountOpening\obj\Debug\net7.0\BankAccountOpening.genruntimeconfig.cache
+D:\C# programs\Phase 2\BankAccountOpening\obj\Debug\net7.0\ref\BankAccountOpening.dll
